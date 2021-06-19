@@ -30,6 +30,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   url_launcher: ^5.0.3
   get_it: ^1.0.3+2
+  easy_contact_picker: ^0.0.2
+  permission_handler: ^5.0.1
+  fluttertoast: ^4.0.1
 
 dev_dependencies:
   flutter_test:
